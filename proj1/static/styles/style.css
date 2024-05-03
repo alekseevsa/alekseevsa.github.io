@@ -1,0 +1,17 @@
+span{
+    font-style: italic;
+    background-color: black;
+    color: aquamarine;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.huetd{
+    font-weight: lighter;
+}
+
+ol{
+    list-style: lower-latin;
+}
